@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.png" width="100%" alt="黑白铅笔速写与暗红蝴蝶结：在安静的书桌前学习与创造" />
+  <img src="assets/sisyphus-pixel.gif" width="100%" alt="西西弗斯推石：简约像素动画，推上斜坡、滑回坡底、再次开始" />
 </p>
 
 <h1 align="center">Hi, I'm Sakuno.</h1>
@@ -51,3 +51,4 @@
 未来的小工具和 Agent 实验，也会慢慢放到这里。
 
 <p align="center"><sub>Learn by building. Keep the useful parts.</sub></p>
+
